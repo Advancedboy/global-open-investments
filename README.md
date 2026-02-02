@@ -106,9 +106,3 @@ The backend consists of independent services communicating via REST / gRPC / mes
 - Nginx / API Gateway
 - Monitoring (Prometheus, Grafana)
 - Centralized logging
-
----
-
-## 📁 Repository Structure
-
-
